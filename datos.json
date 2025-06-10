@@ -4,7 +4,7 @@
         "edad": 30,
         "ciudad": "Santiago, Chile",
         "ocupacion": "Analista de Sistemas",
-        "activo": false    
+        "activo": false
     },
     {
         "nombre": "Ricardo",
