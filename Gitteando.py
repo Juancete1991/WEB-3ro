@@ -10,3 +10,4 @@ print("ramota")
 
 
 print("ramototta")
+print("ramototta")
