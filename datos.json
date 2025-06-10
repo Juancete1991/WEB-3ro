@@ -1,0 +1,16 @@
+[
+    {
+        "nombre": "Le\u00f3nidas",
+        "edad": 30,
+        "ciudad": "Santiago, Chile",
+        "ocupacion": "Analista de Sistemas",
+        "activo": false    
+    },
+    {
+        "nombre": "Ricardo",
+        "edad": 25,
+        "ciudad": "Mendoza, Argentina",
+        "ocupacion": "Programador Python",
+        "activo": true
+    }
+]
